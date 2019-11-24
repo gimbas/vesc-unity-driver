@@ -1,3 +1,5 @@
+# THIS PROJECT IS ABANDONED
+
 # VESC unity driver
 
 simple api to comunicate with VESC unity motor controllers
